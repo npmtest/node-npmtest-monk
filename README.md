@@ -1,7 +1,7 @@
 # test coverage for  [monk (v4.0.0)](https://github.com/Automattic/monk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-monk.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-monk) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-monk.svg)](https://travis-ci.org/npmtest/node-npmtest-monk)
 #### [![build status](https://secure.travis-ci.org/Automattic/monk.svg?branch=master)](https://secure.travis-ci.org/Automattic/monk) [![codecov](https://codecov.io/gh/Automattic/monk/branch/master/graph/badge.svg)](https://codecov.io/gh/Automattic/monk) [![Joi
 
-[![NPM](https://nodei.co/npm/monk.png?downloads=true)](https://www.npmjs.com/package/monk)
+[![NPM](https://nodei.co/npm/monk.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/monk)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-monk/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-monk/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-monk/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-monk/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-monk/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-monk/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-monk/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-monk/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-monk/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-monk/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-monk%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-monk/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-monk/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-monk/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-monk/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-monk%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-monk/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-monk/build/test-report.html](https://npmtest.github.io/node-npmtest-monk/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-monk/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-monk/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-monk/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-monk/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-monk/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-monk/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-monk/build/screenCapture.npmPackageListing.svg)
 
@@ -63,16 +69,13 @@
     "main": "lib/monk.js",
     "maintainers": [
         {
-            "name": "mathieudutour",
-            "email": "mathieu@dutour.me"
+            "name": "mathieudutour"
         },
         {
-            "name": "rauchg",
-            "email": "rauchg@gmail.com"
+            "name": "rauchg"
         },
         {
-            "name": "tootallnate",
-            "email": "nathan@tootallnate.net"
+            "name": "tootallnate"
         }
     ],
     "name": "monk",
@@ -82,7 +85,6 @@
         ]
     },
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Automattic/monk.git"
