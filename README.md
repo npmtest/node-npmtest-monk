@@ -1,4 +1,7 @@
-# test coverage for  [monk (v4.0.0)](https://github.com/Automattic/monk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-monk.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-monk) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-monk.svg)](https://travis-ci.org/npmtest/node-npmtest-monk)
+# npmtest-monk
+
+#### basic test coverage for  [monk (v4.0.0)](https://github.com/Automattic/monk#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-monk.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-monk) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-monk.svg)](https://travis-ci.org/npmtest/node-npmtest-monk)
+
 #### [![build status](https://secure.travis-ci.org/Automattic/monk.svg?branch=master)](https://secure.travis-ci.org/Automattic/monk) [![codecov](https://codecov.io/gh/Automattic/monk/branch/master/graph/badge.svg)](https://codecov.io/gh/Automattic/monk) [![Joi
 
 [![NPM](https://nodei.co/npm/monk.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/monk)
